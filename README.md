@@ -1,5 +1,5 @@
 # Aprendizado-Indutivo---Arvore-de-Decisao
-##Critério de Provas 
+## Critério de Provas 
 Os atributos analisados foram nota da primeira prova, nota da segunda prova e percentual de
 faltas, podemos observar que um percentual acima de 24.5 resulta em reprovação.
 
@@ -7,7 +7,7 @@ faltas, podemos observar que um percentual acima de 24.5 resulta em reprovação
 
 ![CPA](https://github.com/user-attachments/assets/55428e21-ae85-43ad-8ffc-f1230f93e9c7)
 
-##Partida de Tenis
+## Partida de Tenis
 Os atributos analisados foram pontos do jogador 1, pontos do jogador 2 e as faltas cometidas, podemos observar que um percentual abaixo de 24.5 resulta em vitória na partida.
 
 ![PT1](https://github.com/user-attachments/assets/0bce41a7-7552-4d64-938e-af074ebf1d9d)
